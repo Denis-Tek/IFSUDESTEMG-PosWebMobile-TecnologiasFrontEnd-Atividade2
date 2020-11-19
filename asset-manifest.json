@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/css/main.8d51c48a.chunk.css",
+    "main.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/main.d5a748db.chunk.js",
+    "main.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/main.d5a748db.chunk.js.map",
+    "runtime-main.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/runtime-main.24c1153e.js",
+    "runtime-main.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/runtime-main.24c1153e.js.map",
+    "static/js/2.695d4c92.chunk.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/2.695d4c92.chunk.js",
+    "static/js/2.695d4c92.chunk.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/2.695d4c92.chunk.js.map",
+    "static/js/3.3d7b18c4.chunk.js": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/3.3d7b18c4.chunk.js",
+    "static/js/3.3d7b18c4.chunk.js.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/3.3d7b18c4.chunk.js.map",
+    "index.html": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/index.html",
+    "static/css/main.8d51c48a.chunk.css.map": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/css/main.8d51c48a.chunk.css.map",
+    "static/js/2.695d4c92.chunk.js.LICENSE.txt": "/IFSUDESTEMG-PosWebMobile-TecnologiasFrontEnd-Atividade2/static/js/2.695d4c92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c1153e.js",
+    "static/js/2.695d4c92.chunk.js",
+    "static/css/main.8d51c48a.chunk.css",
+    "static/js/main.d5a748db.chunk.js"
+  ]
+}
